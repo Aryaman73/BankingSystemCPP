@@ -2,6 +2,8 @@
 
 This is a C++ Project I had made using MS-DOS/Turbo C++ during my final year of High School. Turbo C++ is fairly dated, but it was still a lot of fun trying to make it look usable and interesting. Along with that, it actually makes use of quite a bit of binary and text file handling.
 
+ The main code is in the BANK.cpp file. The reason everything is in .cpp file is because it was just easier to stick with one file when working with a 16-bit MS-DOS IDE. The .dat and .txt files store all the data for the project.
+
 -----
 
 This program is meant to simulate a Banking System for both the Customer and Bank Employees. The program works on a .dat binary file which stores the information about the customers, and a combination of a .dat and .txt file which stores transaction records.
