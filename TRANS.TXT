@@ -1,0 +1,29 @@
+
+-------------------------
+Sun Aug 12 12:37:41 2018
+
+DEPOSIT
+Name: Aryaman Singh
+Account No: 1000
+Amount: 12000
+-------------------------
+Sun Aug 12 12:37:52 2018
+
+WITHDRAWAL
+Name: Aryaman Singh
+Account No: 1000
+Amount: 1000
+-------------------------
+Sun Aug 12 12:45:10 2018
+
+DEPOSIT
+Name: Aryaman Singh
+Account No: 1000
+Amount: 100000
+-------------------------
+Sun Aug 12 13:15:31 2018
+
+DEPOSIT
+Name: Anushka Garg
+Account No: 1001
+Amount: 12000
